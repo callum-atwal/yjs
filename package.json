@@ -51,7 +51,7 @@
   },
   "homepage": "https://yjs.dev",
   "dependencies": {
-    "lib0": "^0.1.7"
+    "lib0": "^0.2.2"
   },
   "devDependencies": {
     "concurrently": "^3.6.1",

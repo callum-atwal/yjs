@@ -2,7 +2,7 @@
   "name": "yjs",
   "version": "13.0.0-103",
   "description": "Shared Editing Library",
-  "main": "./dist/yjs.js",
+  "main": "./src/index.js",
   "module": "./dist/yjs.mjs",
   "sideEffects": false,
   "scripts": {
